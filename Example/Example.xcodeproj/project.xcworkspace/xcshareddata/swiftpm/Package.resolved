@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "simplenetworkingsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/edward-nguon/SimpleNetworkingSDK",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8b32d7f6218fc215c850a8318eedd164ecc1e0bc"
+      }
+    }
+  ],
+  "version" : 2
+}
