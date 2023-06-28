@@ -1,0 +1,21 @@
+PODS:
+  - SimpleNetworkingSDK (1.0.0)
+
+DEPENDENCIES:
+  - SimpleNetworkingSDK (from `https://github.com/edwardnguondev/SimpleNetworkingSDK.git`)
+
+EXTERNAL SOURCES:
+  SimpleNetworkingSDK:
+    :git: https://github.com/edwardnguondev/SimpleNetworkingSDK.git
+
+CHECKOUT OPTIONS:
+  SimpleNetworkingSDK:
+    :commit: be48555cd2c6a24a4ec3c3450ddba51fa8760011
+    :git: https://github.com/edwardnguondev/SimpleNetworkingSDK.git
+
+SPEC CHECKSUMS:
+  SimpleNetworkingSDK: 84d38b400376c22b05f9e3245a8fdeca14be7eb4
+
+PODFILE CHECKSUM: 96fe0fedda759954df4d4d5199fabca4b6a4911f
+
+COCOAPODS: 1.12.1
