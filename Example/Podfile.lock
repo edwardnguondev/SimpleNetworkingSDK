@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   SimpleNetworkingSDK:
-    :commit: be48555cd2c6a24a4ec3c3450ddba51fa8760011
+    :commit: 1ca55939dedc314fdbf26c4dade3c5869b3d9cc3
     :git: https://github.com/edwardnguondev/SimpleNetworkingSDK.git
 
 SPEC CHECKSUMS:
-  SimpleNetworkingSDK: 84d38b400376c22b05f9e3245a8fdeca14be7eb4
+  SimpleNetworkingSDK: eeda47f7c44af3556f2506c360a3952fa1034219
 
 PODFILE CHECKSUM: 96fe0fedda759954df4d4d5199fabca4b6a4911f
 
